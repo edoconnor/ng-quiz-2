@@ -1,0 +1,194 @@
+{
+  "questions": [
+    {
+      "questionText": "What is the capital of Rhode Island?",
+      "plates": "https://theus50.com/images/state-licenses/rhodeisland-license.jpg",
+      "options": [
+        {
+          "text": "Providence",
+          "correct": true
+        },
+        {
+          "text": "Warwick"
+        },
+        {
+          "text": "Cranston"
+        },
+        {
+          "text": "Newport"
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of Idaho?",
+      "plates": "https://theus50.com/images/state-licenses/idaho-license.jpg",
+      "options": [
+        {
+          "text": "Coeur d'Alene"
+        },
+        {
+          "text": "Boise",
+          "correct": true
+        },
+        {
+          "text": "Twin Falls"
+        },
+        {
+          "text": "Bellevue"
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of California?",
+      "plates": "https://theus50.com/images/state-licenses/california-license.jpg",
+      "options": [
+        {
+          "text": "San Francisco"
+        },
+        {
+          "text": "Los Angeles"
+        },
+        {
+          "text": "Sacramento",
+          "correct": true
+        },
+        {
+          "text": "Oakland"
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of Arkansas?",
+      "plates": "https://theus50.com/images/state-licenses/arkansas-license.jpg",
+      "options": [
+        {
+          "text": "Little Rock",
+          "correct": true
+        },
+        {
+          "text": "Bentonville"
+        },
+        {
+          "text": "Fayettesville"
+        },
+        {
+          "text": "Pine Bluff"
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of Hawaii?",
+      "plates": "https://theus50.com/images/state-licenses/hawaii-license.jpg",
+      "options": [
+        {
+          "text": "Waipahu"
+        },
+        {
+          "text": "Pearl City"
+        },
+        {
+          "text": "Honolulu",
+          "correct": true
+        },
+        {
+          "text": "Hilo"
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of New Mexico?",
+      "plates": "https://theus50.com/images/state-licenses/newmexico-license.jpg",
+      "options": [
+        {
+          "text": "Albuquerque"
+        },
+        {
+          "text": "Santa Fe",
+          "correct": true
+        },
+        {
+          "text": "Roswell"
+        },
+        {
+          "text": "Las Cruces"
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of Ohio?",
+      "plates": "https://theus50.com/images/state-licenses/ohio-license.jpg",
+      "options": [
+        {
+          "text": "Cleveland"
+        },
+        {
+          "text": "Cincinnati"
+        },
+        {
+          "text": "Dayton"
+        },
+        {
+          "text": "Columbus",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of Wyoming?",
+      "plates": "https://theus50.com/images/state-licenses/wyoming-license.jpg",
+      "options": [
+        {
+          "text": "Laramie"
+        },
+        {
+          "text": "Casper"
+        },
+        {
+          "text": "Cheyenne",
+          "correct": true
+        },
+        {
+          "text": "Cody"
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of Illinois?",
+      "plates": "https://theus50.com/images/state-licenses/illinois-license.jpg",
+      "options": [
+        {
+          "text": "Evanston"
+        },
+        {
+          "text": "Peoria"
+        },
+        {
+          "text": "Chicago"
+        },
+        {
+          "text": "Springfield",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionText": "What is the capital of Kentucky?",
+      "plates": "https://theus50.com/images/state-licenses/kentucky-license.jpg",
+      "options": [
+        {
+          "text": "Louisville"
+        },
+        {
+          "text": "Frankfurt",
+          "correct": true
+        },
+        {
+          "text": "Bowling Green"
+        },
+        {
+          "text": "Lexington"
+        }
+      ]
+    }
+  ]
+}
